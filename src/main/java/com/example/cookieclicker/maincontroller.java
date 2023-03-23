@@ -3,7 +3,7 @@ package com.example.cookieclicker;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class maincontroller {
 
     int i = 0;
     @FXML
